@@ -1,0 +1,23 @@
+APIs
+
+1. /login
+
+2. /register
+
+3. /addExercise
+
+4. /getAllExercise
+
+5. /getUser
+
+6. /getAllExercises
+
+7. /getExercisesByType
+
+8. /deleteExerciseById
+
+9. /deleteUser
+
+10. /updateExerciseById
+
+11. /updateUser
