@@ -44,7 +44,7 @@ Middlewares(app, JWT);
 
 // APIs
 app.get('/', (req, res) => {
-    res.send("Homepage");
+    res.send("Exercise Tracker Backend Server Running...");
 })
 app.post('/login', async (req, res)=>{
     const { email, password } = req.body;
