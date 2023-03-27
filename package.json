@@ -2,7 +2,7 @@
   "name": "project-login",
   "version": "0.0.0",
   "engines": {
-    "node": ">=16.17.1"
+    "node": "14.x"
   },
   "description": "",
   "main": "index.js",
