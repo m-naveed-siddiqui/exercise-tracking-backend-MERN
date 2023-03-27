@@ -18,9 +18,6 @@ const app = express();
 DB();
 
 
-
-
-
 // Middlewares
 
 // parse res.body
